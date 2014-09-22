@@ -1,4 +1,1 @@
-tmcnutshell
-===========
-
-TMC Line Pilot QRH
+A comprehensive QRH-style handbook for TMC pilots.
